@@ -1,0 +1,10 @@
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad23-MVC\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad23-MVC\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad23-MVC\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad23-MVC\Ejercicio1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad23-MVC\Ejercicio1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad23-MVC\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad23-MVC\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad23-MVC\Ejercicio1\obj\Debug\Ejercicio1.csproj.CopyComplete
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad23-MVC\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad23-MVC\Ejercicio1\obj\Debug\Ejercicio1.pdb
